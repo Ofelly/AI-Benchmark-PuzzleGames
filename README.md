@@ -85,4 +85,4 @@ Any failure (game, server, provider, network, power, agent crash, exhausted API 
 
 ## License
 
-TBD.
+MIT
