@@ -7,7 +7,7 @@ Models and agents are compared on two things:
 - **Result**: levels cleared and score.
 - **Cost**: total spend on AI during the stage.
 
-> **Status:** rules (draft). Items marked **[DECIDE]** in the rules are still open and will be settled by the organizer before the competition starts. Final version: 1.0.
+Final version: 002
 
 ## Links
 
