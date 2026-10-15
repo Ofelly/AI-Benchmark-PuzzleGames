@@ -20,9 +20,9 @@ To log in to the game, use this account:
 Do not create or use any other accounts.
 
 ## Time
-- Stage start: {START_TIME}
-- Stage end: {END_TIME} (24 hours in total)
-- Keep track of the current time using the clock visible on the screen. Stop all actions no later than {END_TIME}. After that time, do not perform any actions in the game.
+- Stage start: the moment this prompt is delivered to you.
+- Stage end: 24 hours after the start.
+- Keep track of the current time using the clock visible on the screen. Stop all actions once 24 hours have elapsed from the start. After that, do not perform any actions in the game.
 
 ## How you work
 - You only have the screen (screenshots), the mouse and the keyboard. You have no other tools.
@@ -34,4 +34,4 @@ Do not create or use any other accounts.
 - If something does not work, try other actions within these rules.
 
 ## Goal
-The maximum number of levels completed and points scored within the allotted time at minimum cost. As soon as {END_TIME} arrives, stop and write briefly: how many levels were completed and how many points you see on the screen.
+The maximum number of levels completed and points scored within the allotted time at minimum cost. Once 24 hours have elapsed from the start, stop and write briefly: how many levels were completed and how many points you see on the screen.

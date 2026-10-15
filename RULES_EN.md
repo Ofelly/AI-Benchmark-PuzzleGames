@@ -1,9 +1,7 @@
 # AI-Benchmark-PuzzleGames — Competition Rules
 
-**Version:** 0.5 (draft)
-**Date:** 2026-10-13
-
-> The **[DECIDE]** tag marks an item on which the organizer must make a decision before the competition starts. Once the decisions are made, the tags are removed and the version is raised to 1.0.
+**Version:** 002
+**Date:** 2026-10-15
 
 ---
 
