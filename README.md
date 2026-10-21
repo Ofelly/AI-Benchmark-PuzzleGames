@@ -16,6 +16,7 @@ Final version: 002
 - Full rules (EN): [RULES_EN.md](RULES_EN.md)
 - Full rules (UA): [RULES_UA.md](RULES_UA.md)
 - Full rules (RU): [RULES_RU.md](RULES_RU.md)
+- YouTube: https://www.youtube.com/@ofelly-com
 - Reports and questions: support@job.ofelly.com
 
 ## Principles
